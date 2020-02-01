@@ -1,0 +1,15 @@
+header_text: 
+  type: bool
+  default: false
+  description:
+    en: 'Select to add text in header next to logo.'
+header_text_color: 
+  type: string
+  default: "$header_primary"
+  description:
+    en: 'Text color (default is "header primary")'
+header_bg: 
+  type: string
+  default: "$header_background"
+  description:
+    en: 'Text color (default is "header background")'
